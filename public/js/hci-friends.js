@@ -12,6 +12,10 @@ function initializePage() {
 	console.log("Javascript connected!");
 }
 
+function friendClick {
+	
+}
+
 function anagrammedName(name) {
 	// Thanks, Internet Anagram Server!
 	
